@@ -9,12 +9,13 @@ Professora: 熊紫薇。
 
 <img src="./nihao.gif.crdownload" alt="Nihao" style="height: 250px; width:250px;"/>
 
-- [📚 Resumo das aulas](#resumo-das-aulas)
-- [Hanzis](#hanzis)
-- [Frases](#frases-uteis)
-- [Links](#links)
 
-## 📚 Resumo das aulas
+- [📚 Resumo das aulas - 课程总结](#resumo-das-aulas)
+- [✍🏼 Hanzis - 汉字](#hanzis)
+- [💬 Frases - 句子](#frases-uteis)
+- [🔗 Links - 链接](#links)
+
+## 📚 Resumo das aulas - 课程总结
 
 ### **Aula 1** - 
 ### **Aula 2** - 
@@ -26,14 +27,14 @@ Professora: 熊紫薇。
 ### **Aula 8** -
 ### **Aula 9** -
 ### **Aula 10** -
-
-## Hanzis
-
-
-
-## Frases úteis
+ 
+## ✍🏼 Hanzis - 汉字
 
 
-## Links
+
+## 💬 Frases úteis - 句子
+
+
+## 🔗 Links - 链接
 
 - 
