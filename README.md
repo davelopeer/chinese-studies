@@ -1,6 +1,5 @@
 # Mandarim
 
-<!-- <img src="./nihao.jpg" alt="Nihao" style="height: 350px; width:725px;"/> -->
 
 
 Anotações e resumos de aulas de mandarim do módulo Básico I do [Instituto Confúcio](https://www.institutoconfucio.com.br/), da Unesp. 
@@ -23,7 +22,7 @@ Resumo do conteúdo:
 - Lição 2 - Estudo, trabalho (4 aulas)
 - Lição 3 - Família, descrição (3-4 aulas)
 
-<img src="./nihao.gif.crdownload" alt="Nihao" style="height: 250px; width:250px; margin: 20px 0"/>
+<img src="images/nihao.gif.crdownload" alt="Nihao" style="height: 250px; width:250px; margin: 20px 0"/>
 
 
 
@@ -37,57 +36,12 @@ Resumo do conteúdo:
 
 ## Resumo das aulas
 
-### **Aula 1**
+- [Aula 1](/aulas/aula1.md)
+- [Aula 2](/aulas/aula2.md)
+- [Aula 3](/aulas/aula3.md)
+- [Aula 4](/aulas/aula4.md)
+- [Aula 5](/aulas/aula5.md)
 
-📕 _Parte 1: Apresentação_
-
-Olá！ 你好！
-
-Me chamo David. E você? 我叫大卫。你呢？
-
-Eu sou brasileiro. 我是巴西人。
-
-Eu amo a China. Eu amo o Brasil. 我爱中国。 我爱巴西。
-
-Eu te amo! 我爱你！
-
-
-📕 _Parte 2: Sobre a china_
-
-China 中国
-
-Apresentação do mapa da China e cidades.
-
-📕 _Parte 3: Sobre a língua Chinesa_
-
-
-Mandarim como lingua mais falada na China
-
-<img src="./dialetos.png" alt="Nihao" style="max-width:600px; margin: 20px 0"/>
-
-Chinês (língua) 汉语
-
-Características da língua Chinesa:
-- Verbos não são conjulgados
-- Existem 4 tons para as sílabas
-
-<img src="./tons.png" alt="Nihao" style="max-width:500px; margin: 0px 40px"/>
-
-- Existem os caracteres tradicionais, simplificados e o pinyin (pronunciação).
-
-
-### **Aula 2** - 
-
-
-
-### **Aula 3** -
-### **Aula 4** -
-### **Aula 5** -
-### **Aula 6** -
-### **Aula 7** -
-### **Aula 8** -
-### **Aula 9** -
-### **Aula 10** -
  
 
 ---
