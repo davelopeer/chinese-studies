@@ -6,6 +6,9 @@ Anotações e resumos de aulas de mandarim do módulo Básico I do [Instituto Co
 
 Professora: 熊紫薇。
 
+
+<img src="images/nihao.gif.crdownload" alt="Nihao" style="height: 250px; width:250px; margin: 20px 0"/>
+
 ### **Básico 1**
 
 - Fonética. Pronuncia. Pinyin. Teclado chinês.
@@ -15,24 +18,22 @@ Professora: 熊紫薇。
 - Números, idades, família
 - Cultura chinesa e atualidades.
 
-Resumo do conteúdo:
+**Resumo do conteúdo**:
 
 - Lição 0 - Introdução de pronúncia e escrita (3 aulas)
 - Lição 1 - Nacionalidade, idiomas, nome (3-4 aulas)
 - Lição 2 - Estudo, trabalho (4 aulas)
 - Lição 3 - Família, descrição (3-4 aulas)
 
-<img src="images/nihao.gif.crdownload" alt="Nihao" style="height: 250px; width:250px; margin: 20px 0"/>
+<img src="images/line.png" alt="divisor" style="width:50%; margin: 20px 0;"/>
 
 
+- **[📚 Resumo das aulas - 课程总结](#resumo-das-aulas)**
+- **[💬 Vocabulário - 词汇](#vocabulario)**
+- **[🔗 Links - 链接](#links)**
 
+<img src="images/line.png" alt="divisor" style="width:50%; margin: 20px 0;"/>
 
-- [📚 Resumo das aulas - 课程总结](#resumo-das-aulas)
-- [💬 Vocabulário - 词汇](#vocabulario)
-- [🔗 Links - 链接](#links)
-
-
----
 
 ## Resumo das aulas
 
@@ -42,15 +43,13 @@ Resumo do conteúdo:
 - [Aula 4](/aulas/aula4.md)
 - [Aula 5](/aulas/aula5.md)
 
- 
 
----
 
 ## Vocabulario
 
 - 
 
----
+
 
 ## Links
 
@@ -66,3 +65,7 @@ Resumo do conteúdo:
 - [Adicionar teclado chines no windows e android](./TecladoChinesWindowsAndroid.pdf)
 - [Instalar Pinyin Tones](./PinyinTonesTutorial.pdf)
 - [Caderno de Hanzi](./CadernodeHanzi.pdf)
+- [Pronúncias de sílabas](https://yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table)
+- [Pronúncias de sílabas 2](https://www.laits.utexas.edu/ppp/learning.php?unit=1)
+
+<img src="images/line.png" alt="divisor" style="width:50%; margin: 20px 0;"/>

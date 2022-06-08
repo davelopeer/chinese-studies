@@ -13,12 +13,23 @@ Eu amo a China. Eu amo o Brasil. 我爱中国。 我爱巴西。
 
 Eu te amo! 我爱你！
 
+<br>
+
+---
+
+<br>
 
 📕 _Parte 2: Sobre a china_
 
 China 中国
 
 Apresentação do mapa da China e cidades.
+
+<br>
+
+---
+
+<br>
 
 📕 _Parte 3: Sobre a língua Chinesa_
 
@@ -36,3 +47,6 @@ Características da língua Chinesa:
 <img src="../images/tons.png" alt="Nihao" style="max-width:500px; margin: 0px 40px"/>
 
 - Existem os caracteres tradicionais, simplificados e o pinyin (pronunciação).
+
+
+<img src="../images/line.png" alt="divisor" style="width:50%; margin: 20px 0;"/>
