@@ -47,8 +47,30 @@ Professora: 熊紫薇。
 
 ## Vocabulario
 
-- 
+- Ni hao = Olá
+- Dajia hao = Olá pessoal
+- Zaijian = Tchau
+- Xie xie = Obrigado
+- Bu keqi = De nada
+- Dui Buqi = Desculpa
+- Mei Guanxi = Por nada
+- Wo ai ni - Eu amo você
+- Nin hao - Olá (com respeito)
 
+- Ni jiao shenme mingzi = Como você se chama?
+- Ren shi hen gaoxing = Prazer em te conhecer.
+- Ni xing shenme = Qual seu sobrenome?
+- Nin guixing = Qual seu sobrenome? (com respeito)
+
+- Ni shi na guo ren? = De onde você é?
+- Wo shi baxi ren = Eu sou brasileiro
+- Ni ne? = E você? = Você é brasileiro?
+- Ni shi Baxiren ma?
+- Shi de, ... = Sim, ..
+- Bu, ... = Não, ...
+- Ta shí bu shí...? = Ele é ou não é...?
+
+- Bu keyi = Não pode
 
 
 ## Links
